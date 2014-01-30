@@ -1,6 +1,6 @@
 # Ping the Changelog
 
-This repository serves as our open contact form. [Ask us anything](https://github.com/thechangelog/ping/issues/new) -- or share your projects, news, or tips.
+This repository serves as our open contact form. [Ask us anything](https://github.com/thechangelog/ping/issues/new) -- or share your projects, news, or feedback.
 
 ---
 
