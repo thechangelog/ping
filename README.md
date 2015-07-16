@@ -1,6 +1,6 @@
 # Ping the Changelog
 
-This repository serves as our open contact form. [Ask us anything](https://github.com/thechangelog/ping/issues/new) -- or share your projects, news, or feedback. If you'd like to pitch us on a post you've written, [use our Draft repo](https://github.com/thechangelog/draft) - it's [pretty active](https://github.com/thechangelog/draft/graphs/contributors).
+This repository serves as our open contact form. [Ask us anything](https://github.com/thechangelog/ping/issues/new) -- or share your projects, news, or feedback. If you'd like to pitch us on a post you've written, [use our Draft repo](https://github.com/thechangelog/draft).
 
 ---
 
@@ -20,7 +20,7 @@ We'll try to answer you as soon as we can get to it. Once we've answered, we'll 
 
 ### Twitter
 
-If you have something quick and easy, just ping us on Twitter. 140 characters makes everyone more efficient. We're [@TheChangelog](https://twitter.com/thechangelog) on Twitter.
+If you have something quick and easy, just ping us on Twitter. 140 characters makes everyone more efficient. We're [@Changelog](https://twitter.com/changelog) on Twitter.
 
 ---
 
