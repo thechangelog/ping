@@ -1,6 +1,6 @@
 # Ping the Changelog
 
-This repository serves as our open contact form. [Ask us anything](https://github.com/thechangelog/ping/issues/new) -- or share your projects, news, or feedback. If you'd like to pitch us on a post you've written, [use our Draft repo](https://github.com/thechangelog/draft).
+This repository serves as our open inbox. [Ask us anything](https://github.com/thechangelog/ping/issues/new) -- or share your projects, news, or feedback.
 
 ---
 
@@ -8,7 +8,7 @@ This repository serves as our open contact form. [Ask us anything](https://githu
 
 Getting in touch is as easy as [creating a new issue](https://github.com/thechangelog/ping/issues/new).
 
-We'll try to answer you as soon as we can get to it. Once we've answered, we'll close the issue just so we know what we've covered, but don't worry -- if you have any further questions just respond in the thread and we'll get back to you soon. Feel free to comment on any of the older issues too, even if you didn't create it.
+We'll try to respond as soon as we can. Once we've answered, we'll close the issue just so we know what we've covered, but don't worry -- if you have any further questions just respond in the thread and we'll get back to you soon. Feel free to comment on older issues too, even if you didn't create it.
 
 ---
 
