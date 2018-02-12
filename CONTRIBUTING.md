@@ -20,7 +20,7 @@ We'll try to respond as soon as we can. Once we've answered, we'll close the iss
 
 ### Twitter
 
-If you have something quick and easy, just ping us on Twitter. 140 characters makes everyone more efficient. We're [@Changelog](https://twitter.com/changelog) on Twitter.
+If you have something quick and easy, just ping us on Twitter. 280 characters makes everyone more efficient. We're [@Changelog](https://twitter.com/changelog) on Twitter.
 
 ---
 
