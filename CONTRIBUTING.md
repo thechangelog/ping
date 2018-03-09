@@ -1,6 +1,8 @@
 # Ping the Changelog
 
-This repository serves as our open inbox. [Ask us anything](https://github.com/thechangelog/ping/issues/new) -- or share your projects, news, or feedback.
+This repository serves as our open inbox. [Ask us anything](https://github.com/thechangelog/ping/issues/new).
+
+**This is no longer the place for sharing projects, articles, and news. That has been moved to ~>** [https://changelog.com/news/submit]()
 
 ---
 
