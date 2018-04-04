@@ -1,8 +1,8 @@
-# Ping the Changelog
+# Ping the Changelog team
 
 This repository serves as our open inbox. [Ask us anything](https://github.com/thechangelog/ping/issues/new).
 
-**This is no longer the place for sharing projects, articles, and news. That has been moved to ~>** [https://changelog.com/news/submit](https://changelog.com/news/submit)
+**This is not the spot for sharing projects, articles, and news. GOTO [https://changelog.com/news/submit](https://changelog.com/news/submit)**
 
 ---
 
@@ -10,7 +10,7 @@ This repository serves as our open inbox. [Ask us anything](https://github.com/t
 
 Getting in touch is as easy as [creating a new issue](https://github.com/thechangelog/ping/issues/new).
 
-We'll try to respond as soon as we can. Once we've answered, we'll close the issue just so we know what we've covered, but don't worry -- if you have any further questions just respond in the thread and we'll get back to you soon. Feel free to comment on older issues too, even if you didn't create it.
+We'll try to respond as soon as we can. Once we've answered, we'll close the issue just so we know what we've covered it, but don't worry -- if you have any further questions just respond in the thread and we'll get back to you soon. Feel free to comment on older issues too, even if you didn't create it.
 
 ---
 
