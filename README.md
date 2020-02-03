@@ -1,29 +1,7 @@
 # Ping the Changelog team
 
-This repository serves as our open inbox. [Ask us anything](https://github.com/thechangelog/ping/issues/new).
+_This repo is no longer in use_
 
-**This is not the spot for sharing projects, articles, and news. GOTO [https://changelog.com/news/submit](https://changelog.com/news/submit)**
-
----
-
-### Get in touch
-
-Getting in touch is as easy as [creating a new issue](https://github.com/thechangelog/ping/issues/new).
-
-We'll try to respond as soon as we can. Once we've answered, we'll close the issue just so we know what we've covered it, but don't worry -- if you have any further questions just respond in the thread and we'll get back to you soon. Feel free to comment on older issues too, even if you didn't create it.
-
----
-
-### Browse previous conversations
-
-[Check out the closed issues filter](https://github.com/thechangelog/ping/issues?sort=created&directionÞsc&state=closed&page=1) to browse previous conversations we've had. We try to use this as an email replacement everyone can see, so feel free to dig into some of the older threads.
-
----
-
-### Twitter
-
-If you have something quick and easy, just ping us on Twitter. 280 characters makes everyone more efficient. We're [@Changelog](https://twitter.com/changelog) on Twitter.
-
----
-
-Special thanks to Holman [for leading the way](https://github.com/holman/feedback).
+1. To share projects, articles, and news GOTO [changelog.com/news/submit](https://changelog.com/news/submit)
+2. To request a guest or topic for an episode GOTO [changelog.com/request](https://changelog.com/request)
+3. For everything else GOTO [changelog.com/contact](https://changelog.com/contact)
